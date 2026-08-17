@@ -1,0 +1,20 @@
+# PlatformIO build files
+**/.pio/
+**/pio/build/
+
+# Compiled firmware
+*.bin
+*.elf
+*.map
+
+# Temporary/build files
+*.o
+*.a
+*.d
+*.db
+
+# VS Code local settings
+.vscode/
+
+# OS files
+.DS_Store
