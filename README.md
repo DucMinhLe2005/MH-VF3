@@ -1,14 +1,20 @@
-<p align="center">
-  <img src="docs/images/mh01_real_robot.webp" width="49%" alt="MH-01 Real Robot"/>
-  <img src="docs/images/mh01_cad_model.webp" width="49%" alt="MH-01 CAD Model"/>
-</p>
-
-<p align="center">
-  <b>MH-01 Real Robot</b> &nbsp;&nbsp;&nbsp;&nbsp; <b>MH-01 CAD Model</b>
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="docs/images/mh01_real_robot.webp" height="360" alt="MH-01 Real Robot">
+    </td>
+    <td align="center" width="50%">
+      <img src="docs/images/mh01_cad_model.webp" height="360" alt="MH-01 CAD Model">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>MH-01 Real Robot</b></td>
+    <td align="center"><b>MH-01 CAD Model</b></td>
+  </tr>
+</table>
 
 ## Build status
-<!-- Build Status populated by Github Actions runs -->
+<!-- Build Status populated by GitHub Actions runs -->
 ROS 2 Distro | Branch | Build status
 :----------: | :----: | :----------:
 **Rolling** | [`rolling`](../../tree/rolling) | [![Rolling Firmware Build](../../actions/workflows/rolling-firmware-build.yml/badge.svg?branch=rolling)](../../actions/workflows/rolling-firmware-build.yml?branch=rolling)
